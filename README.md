@@ -1,6 +1,6 @@
-Hi. 👋 
+Hi, I’m Daniele 👋 
 
-I’m Daniele and I like to create things that live on the internet. 😊
+I'm interested in web technology and games. 😊
 
 
 <!---
