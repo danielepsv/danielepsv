@@ -18,4 +18,6 @@ Thank you for stopping by. 🖖😎<br/>
 Whether you have a question or just want to say hi. [Go ahead](danielecarvalho86@gmail.com).<br/>
 Don’t be a stranger! 😊<br/><br/>
 
+<!---
 <a href="https://ko-fi.com/danielepsvc"> <img align="left" src="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png" width="210" /></a></p><br><br>
+--->
