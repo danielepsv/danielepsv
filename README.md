@@ -10,13 +10,8 @@ You can click the Preview link to take a look at your changes.
 A software developer from Portugal.<br>
 I've always been drawn to the overlap between design and development.<br>
 I enjoy losing the time required to correct small details and optimize code, I love details.<br>
-Over the years, I have worked on a variety of projects using different technologies,
-both backend and frontend development.<br>
-Whenever time allows I'm constantly learning new web technologies and other programming 
-languages! I'm curious by nature. 👀<br>
 When I'm not working or coding, you can find me spending time reading a book, enjoying a
 movie, or playing games. 🌛<br><br>
-
 
 Some fun facts: <br><br>
   🎮 I have more video games than I find the time to play<br>
