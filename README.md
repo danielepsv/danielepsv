@@ -15,8 +15,7 @@ code, I love details.<br>
 Whenever time allows I'm constantly learning new web technologies and
 other programming languages! I'm curious by nature.<br>
 Over the years, I have worked on a variety of projects using different
-technologies, both backend (PHP, C, C#) and frontend (HTML, CSS, and
-jQuery/Javascript) development.<br>
+technologies, both backend and frontend  development.<br>
 I love learning from past experiences and building better things.<br>
 When I'm not working or coding, you can find me spending time reading a
 book, enjoying a movie, or playing games. 🌛<br>
@@ -28,7 +27,7 @@ Some fun facts: <br>
 
 I'm passionate about:<br>
 👾 Pixel art<br>
-🎮 video game<br>
+🎮 Video games<br>
 
 Thank you for taking the time to read. 😊
 
