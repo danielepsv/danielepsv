@@ -17,7 +17,6 @@ book, enjoying a movie, or playing games.🌛<br>
 
 Some fun facts: <br>
 🎮 I have more video games than I find the time to play<br>
-📚 I've started a sci-fi book collection<br>
 ✏️ I love to draw<br>
 
 I'm passionate about:<br>
