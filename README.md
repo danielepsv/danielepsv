@@ -1,47 +1,35 @@
 ## Hi there! 👋
+
 ### My name is Daniele.
-#### I 💖 details and making 🐛 turn into 🦋 using &lt; &sol;&gt; and ✨!
 
-A software developer from Portugal.<br>
-I am passionate about learning and futher developing my skills.<br>
-I've always been drawn to the overlap between design and development.<br>
-I enjoy losing the time required to correct small details and optimize
-code, I love details.<br>
-Whenever time allows I'm constantly learning new web technologies and
-other programming languages! I'm curious by nature.<br>
-Over the years, I have worked on a variety of projects using different
-technologies, both backend and frontend  development.<br>
-I love learning from past experiences and building better things.<br>
-When I'm not working or coding, you can find me spending time reading a
-book, enjoying a movie, or playing games.🌛<br>
+#### I 💖 details and turning 🐛 into 🦋 using </> and ✨
 
-Some fun facts: <br>
-🎮 I have more video games than I find the time to play<br>
-✏️ I love to draw<br>
+A Frontend Developer from Portugal.<br>
+Passionate about building modern, responsive and user-focused web applications.<br>
+I've always been drawn to the intersection between design and development.<br>
+I genuinely enjoy refining small details, improving user experiences and writing clean, maintainable code.<br>
+Curiosity drives me — whenever I have free time, I'm constantly exploring new web technologies, tools and programming languages.<br>
+Over the years, I've worked on a variety of projects using different technologies across both frontend and backend development.<br>
+I love learning from experience and continuously improving the way I build things.<br>
+When I'm not coding, you can usually find me reading, watching movies or playing games 🌛<br>
 
-I'm passionate about:<br>
+### Some fun facts:
+
+🎮 I probably own more video games than I have time to play<br>
+✏️ I enjoy drawing and digital art<br>
+
+### I'm passionate about:
+
 👾 Pixel art<br>
 🎮 Video games<br>
+💜 Retro-futuristic aesthetics<br>
 
-Thank you for taking the time to read. 😊
+### Tech I enjoy working with:
 
-<!---
-danielepsv/danielepsv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+⚛️ React<br>
+▲ Next.js<br>
+📘 TypeScript<br>
+🎨 Tailwind CSS<br>
 
-### Hi, my name is Daniele. 👋<br>
+Thank you for taking the time to read 😊
 
-A software developer from Portugal.<br>
-I am passionate about learning and futher developing my skills.<br>
-I've always been drawn to the overlap between design and development.<br>
-I enjoy losing the time required to correct small details and optimize code, I love details.<br>
-Whenever time allows I'm constantly learning web technologies and other programming languages!<br>
-When I'm not working or coding, you can find me spending time reading a book, enjoying a movie, or playing games.<br>
-
-
-👀 I'm interested in React, Full-Stack and mobile development<br>
-🌱 I’m currently learning React<br>
-
-Thank you for taking the time to read. 😊
-
---->
