@@ -2,8 +2,7 @@
 
 ### My name is Daniele.
 
-#### I 💖 details and turning 🐛 into 🦋 using </> and ✨
-
+<!-- #### I 💖 details and turning 🐛 into 🦋 using </> and ✨ '-->
 A Frontend Developer from Portugal.<br>
 Passionate about building modern, responsive and user-focused web applications.<br>
 I've always been drawn to the intersection between design and development.<br>
