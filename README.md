@@ -1,34 +1,41 @@
-## Hi there! 👋
+## Building digital worlds & getting lost in fictional ones 🌙 
+### Hi, I'm Daniele! 👋
 
-### My name is Daniele.
-
-<!-- #### I 💖 details and turning 🐛 into 🦋 using </> and ✨ '-->
 A Frontend Developer from Portugal.<br>
-Passionate about building modern, responsive and user-focused web applications.<br>
-I've always been drawn to the intersection between design and development.<br>
-I genuinely enjoy refining small details, improving user experiences and writing clean, maintainable code.<br>
-Curiosity drives me — whenever I have free time, I'm constantly exploring new web technologies, tools and programming languages.<br>
-Over the years, I've worked on a variety of projects using different technologies across both frontend and backend development.<br>
-I love learning from experience and continuously improving the way I build things.<br>
-When I'm not coding, you can usually find me reading, watching movies or playing games 🌛<br>
+Passionate about building modern, responsive, and user-focused web applications.<br> 
+I love bringing ideas to life, obsessing over the little details, and creating experiences that feel just as good as they look.<br>
+I'm always curious, always learning, and always looking for new ways to improve my craft. Whether it's experimenting with new technologies, exploring programming languages, or writing clean, maintainable code, there's always something new to discover.<br>
+When I'm not coding, you can usually find me reading fantasy books, watching movies or playing games. 🌙<br> 
+Probably find me lost in a fantasy world, emotionally attached to fictional characters, or convincing myself that just one more chapter won't hurt. Spoiler alert: it always does. 💜📖<br>
 
-### Some fun facts:
+### A little more about me 🦋
+🎮 I probably own more video games than I have time to play<br> 
+✏️ I love drawing and creating digital art<br> 
+📙 Fantasy books are my favorite kind of escape<br> 
+🌙 I'm always ready to disappear into another fictional universe<br> 
+🎨 I have a soft spot for pixel art and retro-futuristic aesthetics<br>
 
-🎮 I probably own more video games than I have time to play<br>
-✏️ I enjoy drawing and digital art<br>
+### Things I love 💜
+📖 Reading fantasy and escaping into fictional worlds<br> 
+❤️‍🔥 Fae, dragons, magic and epic world-building<br>
+👾 Pixel art and cozy gaming sessions<br> 
+🎮 Video games and virtual adventures<br> 
+✨ Retro-futuristic vibes and beautiful designs<br>
+✈️ Exploring new places and making new memories<br>
 
-### I'm passionate about:
+### A little bit of my personality 🌙
+♑ Capricorn energy: ambitious, independent, and a little hard to impress.<br> 
+🐈‍⬛ High standards, a playful mind, and a soft heart.<br> 
+❤️‍🔥 Flirty by nature, firm in my morals, and a little hard to read.<br> 
+✨ Small ego, big heart, and no need to be everyone's cup of tea.<br> 
+🍒 I know my worth, stay true to myself, and never pretend to be someone I'm not.<br>
 
-👾 Pixel art<br>
-🎮 Video games<br>
-💜 Retro-futuristic aesthetics<br>
-
-### Tech I enjoy working with:
-
+### Tech I enjoy working with ⚡
 ⚛️ React<br>
-▲ Next.js<br>
+ ▲  Next.js<br>
 📘 TypeScript<br>
 🎨 Tailwind CSS<br>
 
-Thank you for taking the time to read 😊
+I'm a developer by day and a fantasy-world wanderer by night, always learning, creating, and probably adding another book to my TBR pile that keeps growing faster than I can read it. ✨🌙
 
+Thanks for stopping by, and happy reading! 🫶🐈‍⬛
